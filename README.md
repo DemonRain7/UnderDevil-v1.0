@@ -1,12 +1,12 @@
 # UnderDevil-v1.0
-This game was a project I created almost entirely on my own during my first semester of college. As someone who loves gaming, I wanted to challenge myself to make something fun and engaging. It was an incredible learning experience, and I’m proud to share the result with you!
+This game was a project I created almost entirely on my own during my first semester of college utilizing C (cuz I only learned that language at that time). As someone who loves gaming, I wanted to challenge myself to make something fun and engaging. It was an incredible learning experience, and I’m proud to share the result with you!
 
 ## To Players:
 ### Bad End DEMO:
 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1SrpKCjUfRV0JR6SJdSFLWYzenCSnpnmq/view?usp=drive_link)
 
 ### Game Instructions:
-1. **Art Style**: The game’s visuals are inspired by the famous pixel game *Undertale*. The black background isn’t laziness, we promise!  
+1. **Art Style**: The game’s visuals originated from the famous pixel game *Undertale*. The black background isn’t laziness, we promise!  
 2. **Starting the Game**: Wait for the loading screen to finish, then click on the screen to start the game.  
 3. **Pause Button Guide**:  
    - Click the pause button in the top-left corner.  
