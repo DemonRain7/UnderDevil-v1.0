@@ -1,4 +1,5 @@
 # Game README
+This game was a project I created almost entirely on my own during my first semester of college. As someone who loves gaming, I wanted to challenge myself to make something fun and engaging. It was an incredible learning experience, and I’m proud to share the result with you!
 
 ## To Players:
 
